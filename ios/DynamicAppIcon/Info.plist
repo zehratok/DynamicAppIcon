@@ -2,6 +2,42 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<dict>
+				<key>logo2</key>
+				<dict/>
+			</dict>
+		</dict>
+		<key>Primary Icon</key>
+		<dict>
+			<key>Icon name (iOS 11 and Later)</key>
+			<string>logo1</string>
+		</dict>
+	</dict>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconName</key>
+			<string>logo1</string>
+		</dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<dict>
+				<key>logo2</key>
+				<dict/>
+			</dict>
+			<key>UINewsstandBindingType</key>
+			<string>UINewsstandBindingTypeMagazine</string>
+			<key>UINewsstandBindingEdge</key>
+			<string>UINewsstandBindingEdgeLeft</string>
+		</dict>
+	</dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
