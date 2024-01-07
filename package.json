@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "react-native-change-icon": "^5.0.0",
+    "react-native-restart": "^0.0.27"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
