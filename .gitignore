@@ -63,3 +63,5 @@ yarn-error.log
 .metro-health-check*
 package-lock.json
 ios/Podfile.lock
+*.lock
+*.lock
